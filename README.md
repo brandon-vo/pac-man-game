@@ -10,3 +10,9 @@ On the board, there are 4 power ups which gives the player 9 seconds to eat the 
 A cherry item is also active, giving 10 points to the score. If a ghost collides with PacMan, it will take away 
 1 out of the 3 lives. If 1 life is avaliable and the player gets eaten, the game will end and prompt the user 
 with a restart and quit button. The score is also checked to see if it is a highscore.
+
+![image](https://user-images.githubusercontent.com/76707560/114974406-51178400-9e50-11eb-8995-687aa8ba9cb2.png)
+![image](https://user-images.githubusercontent.com/76707560/114974499-7f955f00-9e50-11eb-9b7d-579e7c456f63.png)
+![image](https://user-images.githubusercontent.com/76707560/114974727-efa3e500-9e50-11eb-99cb-69b8c6e2c4b9.png)
+![image](https://user-images.githubusercontent.com/76707560/114974744-f7fc2000-9e50-11eb-8dad-93259b3978c9.png)
+
